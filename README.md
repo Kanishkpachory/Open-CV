@@ -68,6 +68,7 @@ detections = model.detect(image)
 # Display results
 show_detections(image, detections)
 
+```
 Running YOLO:
 Ensure the environment is set up with the necessary dependencies.
 Run the script with an image to perform object detection.
