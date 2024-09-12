@@ -67,3 +67,16 @@ detections = model.detect(image)
 
 # Display results
 show_detections(image, detections)
+
+Running YOLO:
+Ensure the environment is set up with the necessary dependencies.
+Run the script with an image to perform object detection.
+
+##Resources
+YOLO Official Repository
+YOLO Paper
+PyTorch YOLOv3 Tutorial
+
+
+##Contributing
+Contributions are welcome! Please open an issue or submit a pull request if you'd like to add features, improve the code, or update the documentation.
