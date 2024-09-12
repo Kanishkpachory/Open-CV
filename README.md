@@ -10,6 +10,7 @@ YOLO (You Only Look Once) is a popular real-time object detection algorithm. Thi
 5. [Implementing YOLO](#implementing-yolo)
 6. [Resources](#resources)
 7. [Contributing](#contributing)
+8. [Author](#author)
 
 ## Introduction to YOLO
 
@@ -73,16 +74,16 @@ Running YOLO:
 Ensure the environment is set up with the necessary dependencies.
 Run the script with an image to perform object detection.
 
-#resources
+## resources
 YOLO Official Repository
 YOLO Paper
 PyTorch YOLOv3 Tutorial
 
 
-#contributing
+## contributing
 Contributions are welcome! Please open an issue or submit a pull request if you'd like to add features, improve the code, or update the documentation.
 
-Author
+## Author
 Kanishkpachory
 
 This `README.md` provides an overview of the YOLO object detection algorithm, explains its architecture, and includes implementation instructions. It also offers resources for further reading and instructions for contributing to the project. You can replace `image-link.png` with the appropriate link to the YOLO architecture image.
