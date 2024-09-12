@@ -74,13 +74,13 @@ Running YOLO:
 Ensure the environment is set up with the necessary dependencies.
 Run the script with an image to perform object detection.
 
-## resources
+## Resources
 YOLO Official Repository
 YOLO Paper
 PyTorch YOLOv3 Tutorial
 
 
-## contributing
+## Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you'd like to add features, improve the code, or update the documentation.
 
 ## Author
